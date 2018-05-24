@@ -17,3 +17,5 @@ function logShout(string){
     console.log (sring.toLowerCase())
     
   }
+  
+function say
