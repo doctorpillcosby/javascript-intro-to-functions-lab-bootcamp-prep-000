@@ -18,4 +18,7 @@ function logShout(string){
     
   }
   
-function sayHitoGrandma
+function sayHitoGrandma(sring){
+  if 
+  
+}
