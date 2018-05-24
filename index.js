@@ -18,4 +18,4 @@ function logShout(string){
     
   }
   
-function say
+function sayHitoGrandma
